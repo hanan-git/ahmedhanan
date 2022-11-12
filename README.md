@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hanan Ahmed (@ahmedhanan)
 - 👀 I’m a Web Developer
 - 🌱 I’m currently learning javascript (and frameworks)
-- 📫 My recent delivery? View it by visiting https://codeanother.app
+- 📫 My recent delivery? View it by visiting https://hananahmed.com
 - :pushpin: Checkout my selected repos
 
 <!---
